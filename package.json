@@ -1,0 +1,31 @@
+{
+  "name": "zelpcamp",
+  "version": "1.0.0",
+  "description": "Zelpcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "unknown",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mapbox-sdk": "latest",
+    "async": "latest",
+    "body-parser": "latest",
+    "cloudinary": "latest",
+    "connect-flash": "latest",
+    "dotenv": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "mapbox-gl": "latest",
+    "method-override": "latest",
+    "moment": "latest",
+    "mongoose": "latest",
+    "multer": "latest",
+    "nodemailer": "latest",
+    "passport": "latest",
+    "passport-local": "latest",
+    "passport-local-mongoose": "latest"
+  }
+}
